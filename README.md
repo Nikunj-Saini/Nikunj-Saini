@@ -44,6 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=750&lines=Hi+there!+I’m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" alt="Typing Animation" />
 </p>
+
 
