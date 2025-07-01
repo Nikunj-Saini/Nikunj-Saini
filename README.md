@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I%E2%80%99m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=900&height=70&color=808080&lines=Hi+there!+I%E2%80%99m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
+
 </p>
 
 ---
