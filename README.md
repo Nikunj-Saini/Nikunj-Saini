@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunjsaini&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I’m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
 </p>
