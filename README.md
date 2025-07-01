@@ -1,18 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB!" alt="Typing SVG" />
+  <pre>
+██████╗░░█████╗░░██████╗████████╗███████╗███╗░░░███╗███████╗  ██████╗░░█████╗░██╗░░░░░██╗
+██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝████╗░████║██╔════╝  ██╔══██╗██╔══██╗██║░░░░░██║
+██████╔╝██║░░██║╚█████╗░░░░██║░░░█████╗░░██╔████╔██║█████╗░░  ██████╔╝██║░░██║██║░░░░░██║
+██╔═══╝░██║░░██║░╚═══██╗░░░██║░░░██╔══╝░░██║╚██╔╝██║██╔══╝░░  ██╔═══╝░██║░░██║██║░░░░░██║
+██║░░░░░╚█████╔╝██████╔╝░░░██║░░░███████╗██║░╚═╝░██║███████╗  ██║░░░░░╚█████╔╝███████╗██║
+╚═╝░░░░░░╚════╝░╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝╚══════╝  ╚═╝░░░░░░╚════╝░╚══════╝╚═╝
+  </pre>
 </p>
 
-<h2 align="center">Hi there 👋, I'm Nikunj Saini!</h2>
-
 <p align="center">
-  🎓 B.Tech in Artificial Intelligence & Data Science <br>
-  💡 Passionate about building real-world ML & AI projects <br>
-  📈 Currently on a self-paced data science roadmap
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there!+I’m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 | Category | Skills & Tools |
 |----------|----------------|
@@ -34,12 +37,13 @@
 
 ---
 
-> 🔭 Currently learning: Deep dive into core Python data science libraries  
-> 🗂️ Sharing daily progress on GitHub & LinkedIn  
-> 🎯 Goal: Become job-ready in Data Science with strong project portfolio
+> 🧠 Learning one library at a time: NumPy → Pandas → Matplotlib → Seaborn → Scikit-learn  
+> 🔁 Focused on project-based learning and consistent practice  
+> 📅 Posting daily updates on GitHub & weekends on LinkedIn
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikunjsaini&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
