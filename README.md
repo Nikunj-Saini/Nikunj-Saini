@@ -1,22 +1,16 @@
 <p align="center">
   <pre>
-
-
 ██╗    ███████████╗    ██╗     ██████╗██████╗███╗   ██████████╗     █████╗██╗    ██╗         ██╗
 ██║    ████╔════██║    ██║    ██╔════██╔═══██████╗ ██████╔════╝    ██╔══████║    ██║         ██║
 ██║ █╗ ███████╗ ██║    ██║    ██║    ██║   ████╔████╔███████╗      █████████║    ██║         ██║
 ██║███╗████╔══╝ ██║    ██║    ██║    ██║   ████║╚██╔╝████╔══╝      ██╔══████║    ██║         ╚═╝
 ╚███╔███╔█████████████████████╚██████╚██████╔██║ ╚═╝ █████████╗    ██║  ████████████████╗    ██╗
  ╚══╝╚══╝╚══════╚══════╚══════╝╚═════╝╚═════╝╚═╝     ╚═╚══════╝    ╚═╝  ╚═╚══════╚══════╝    ╚═╝
-                                                                                                
-
-                                                                                                                                                   
-
   </pre>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there!+I’m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I’m+Nikunj+Saini.;Data+Science+%26+Artificial+Intelligence;Self+Learning+with+Daily+Projects;Learning+by+Doing!" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,4 +46,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikunjsaini&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
