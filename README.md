@@ -32,16 +32,16 @@
 
 ### 🌐 Connect with Me
 
-- 📍 Gurgaon, India  
-- 📧 [nikunjsaini08@gmail.com](mailto:nikunjsaini08@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/nikunj-saini)  
-- 🖥️ [GitHub](https://github.com/nikunjsaini)
+-  Gurgaon, India  
+-  [nikunjsaini08@gmail.com](mailto:nikunjsaini08@gmail.com)  
+-  [LinkedIn](https://linkedin.com/in/nikunj-saini)  
+-  [GitHub](https://github.com/nikunjsaini)
 
 ---
 
-> 🧠 Learning one library at a time: NumPy → Pandas → Matplotlib → Seaborn → Scikit-learn  
-> 🔁 Focused on project-based learning and consistent practice  
-> 📅 Posting daily updates on GitHub & weekends on LinkedIn
+>  Learning one library at a time: NumPy → Pandas → Matplotlib → Seaborn → Scikit-learn  
+>  Focused on project-based learning and consistent practice  
+>  Posting daily updates on GitHub & weekends on LinkedIn
 
 ---
 
