@@ -44,7 +44,3 @@
 >  Posting daily updates on GitHub & weekends on LinkedIn
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunjsaini&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
