@@ -1,6 +1,9 @@
 name: Generate Snake
 
 on:
+permissions:
+  contents: write
+
   push:
     branches:
       - main
