@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=5000&pause=1000&color=B3C3D3&center=true&vCenter=true&width=1200&height=100&lines=Hi+there%2C+I+am+Nikunj+Saini.;Artificial+Intelligence+and+Data+Science.;Learning+by+Doing." />
 </p>
 
-
+ 
 
 
 ---
